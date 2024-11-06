@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63138432866",
+    "project_id": "library-2fa32",
+    "storage_bucket": "library-2fa32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63138432866:android:c87e72dd5353f90df50e3b",
+        "android_client_info": {
+          "package_name": "com.example.library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-5PRpT4kdojxv8x1z-rGhDImbPl4M3i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
